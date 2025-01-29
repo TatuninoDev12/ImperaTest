@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+
+reports/*.json
+reports/*.html
+
+.DS_Store

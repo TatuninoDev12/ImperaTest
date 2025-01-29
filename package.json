@@ -1,0 +1,20 @@
+{
+  "name": "imperatest",
+  "version": "1.0.0",
+  "description": "Este proyecto tiene como objetivo desarrollar un script de automatización usando Selenium WebDriver y Cucumber for Appian para probar un flujo de gestión de usuarios en una aplicación Appian. Seria automatizar los inputs del tab que dice DATA INPUT.",
+  "scripts": {
+    "test": "npx cucumber-js -f json:reports/cucumber-report.json && node report.js"
+  },
+  "dependencies": {
+    "assert": "^2.1.0",
+    "chromedriver": "^132.0.1",
+    "cucumber": "^6.0.7",
+    "geckodriver": "^5.0.0",
+    "selenium-webdriver": "^4.28.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "cucumber-html-reporter": "^7.2.0"
+  }
+}
