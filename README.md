@@ -8,11 +8,8 @@ Este documento describe los tests realizados en el proyecto de automatización u
 - [Configuración](#configuración)
 - [Pruebas de Funcionalidad](#pruebas-de-funcionalidad)
   - [Login en la Aplicación](#login-en-la-aplicación)
-  - [Navegación al Módulo de Pruebas](#navegación-al-módulo-de-pruebas)
   - [Data Input en Formulario](#data-input-en-formulario)
   - [Verificación de la Creación Exitosa](#verificación-de-la-creación-exitosa)
-- [Pruebas de Integración](#pruebas-de-integración)
-- [Pruebas de UI](#pruebas-de-ui)
 - [Pruebas de Reportes](#pruebas-de-reportes)
 - [Conclusión](#conclusión)
 
